@@ -2,22 +2,14 @@
 // Desafio super trunfo - Países
 // cadastro carta1 - Variáveis
 int main(){
-// Variáveis 1
-    char estado1;
-    char codigo1[5];
-    char cidade1[20];
-    int populaçao1;
-    float areakm1;
-    float pib1;
-    int pontosturisticos1;
-//Variáveis 2
-    char estado2;
-    char codigo2[5];
-    char cidade2;
-    int populaçao2;
-    float areakm2;
-    float pib2;
-    int pontosturisticos2;
+// Variáveis
+    char estado1, estado2;
+    char codigo1[5], códigos[5];
+    char cidade1[20], cidade2[20];
+    int populaçao1, população 2;
+    float areakm1,areakm2;
+    float pib1,pib2;
+    int pontosturisticos1, pontosturisticos2;
 
 // Dados variáveis 1    
     printf("Digite a letra correspondente ao seu estado:\n");
